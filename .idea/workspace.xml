@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a09b1e8-537d-4d20-9585-02f068f110f3" name="Default Changelist" comment="" />
+    <list default="true" id="2a09b1e8-537d-4d20-9585-02f068f110f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/clover-common-web-demo/target/" />
     <ignored path="$PROJECT_DIR$/clover-common-persistence/target/" />
@@ -114,7 +116,7 @@
     <option name="x" value="150" />
     <option name="y" value="35" />
     <option name="width" value="1645" />
-    <option name="height" value="914" />
+    <option name="height" value="915" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,6 +125,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +142,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,15 +221,24 @@
       <workItem from="1560392172808" duration="2844000" />
       <workItem from="1560395291941" duration="61000" />
       <workItem from="1560395418374" duration="928000" />
-      <workItem from="1560405673426" duration="882000" />
+      <workItem from="1560405673426" duration="3374000" />
+      <workItem from="1560409987027" duration="2551000" />
     </task>
+    <task id="LOCAL-00001" summary="ccupdate">
+      <created>1560406901268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560406901268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32098000" />
+    <option name="totallyTimeSpent" value="37141000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="28" width="1316" height="731" extended-state="0" />
+    <frame x="120" y="28" width="1316" height="732" extended-state="0" />
     <layout>
       <window_info id="设计师" order="0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -237,7 +248,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="8" visible="true" weight="0.31240064" />
+      <window_info active="true" content_ui="combo" id="Project" order="8" visible="true" weight="0.3171701" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292232" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3292232" />
@@ -249,11 +260,11 @@
       <window_info anchor="bottom" id="GraphQL" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.33043477" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50158983" side_tool="true" visible="true" weight="0.3298611" />
       <window_info anchor="bottom" id="Statistic" order="12" weight="0.3292232" />
       <window_info anchor="bottom" id="Tail" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3292232" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3292232" />
+      <window_info anchor="bottom" id="Version Control" order="15" sideWeight="0.49841017" weight="0.32869565" />
       <window_info anchor="bottom" id="Terminal" order="16" />
       <window_info anchor="bottom" id="Messages" order="17" weight="0.3292232" />
       <window_info anchor="bottom" id="Inspection Results" order="18" weight="0.3292232" />
@@ -321,7 +332,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="ccupdate" />
+    <option name="LAST_COMMIT_MESSAGE" value="ccupdate" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/clover-common-utils/src/main/java/com/clover/common/base/BusinessException.java">
